@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "components": [  
-    "Microsoft.VisualStudio.Component.CoreEditor",
+    "Microsoft.VisualStudio.Component.CorefffEditor",
     "Microsoft.VisualStudio.Workload.CoreEditor",
     "Microsoft.VisualStudio.Workload.NativeDesktop",
     "Microsoft.VisualStudio.Workload.ManagedDesktop",
